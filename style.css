@@ -194,7 +194,7 @@ main {
    top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
-   width: 60%;
+   width: 65%;
    height: 50%;
    background-color:#ec5a83;
    padding: 6rem;
@@ -207,6 +207,7 @@ main {
    line-height: 1.6;
    color: white;
  }
+
  
  .underline{
    border-bottom: 2px solid black;
@@ -226,5 +227,5 @@ main {
  
 .partyIcon{
   font-size: 3.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 2rem;
 }
